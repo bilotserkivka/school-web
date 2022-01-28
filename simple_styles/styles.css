@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: #cccccc;
+    font-size: 48px;
+}
+
+p {
+    color: #cccccc;
+    font-size: 24px;
+}
+
+li {
+    color: #cccccc;
+    font-size: 24px;
+}
+
+.green_header {
+    color: lawngreen;
+}
+
+.light {
+    background-color: dimgrey;
+}
