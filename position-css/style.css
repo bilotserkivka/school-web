@@ -1,0 +1,25 @@
+.outer-container {
+  position: relative;
+  top: 50px;
+  left: 50px;
+  height: 300px;
+  width: 300px;
+  background-color: peru;
+}
+
+.inner-container {
+  position: sticky;
+  top: 20px;
+  bottom: auto;
+  left: auto;
+  right: 1px;
+  height: 200px;
+  width: 200px;
+  background-color: purple;
+}
+
+.outer-container, .inner-container {
+  border: 5px solid black;
+  margin: 10px;
+  padding: 15px;
+}
