@@ -1,0 +1,25 @@
+p {
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  text-align: center;
+  background-color: darkslategrey;
+  color: #ccc;
+  font-size: 20px;
+  font-weight: bold;
+  float: right;
+}
+
+ul {
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  width: 400px;
+  background-color: darkgoldenrod;
+  border: 1px solid blak;
+}
+
+img {
+  text-align: center;
+}
