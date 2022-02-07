@@ -18,7 +18,8 @@
   background-color: purple;
 }
 
-.outer-container, .inner-container {
+.outer-container,
+.inner-container {
   border: 5px solid black;
   margin: 10px;
   padding: 15px;
