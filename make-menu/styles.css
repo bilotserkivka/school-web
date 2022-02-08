@@ -1,0 +1,28 @@
+.nav-menu {
+  list-style-type: none;
+}
+
+.nav {
+  background-color: #3d5a85;
+  border: 1px solid #192f4f;
+  padding: 5px;
+}
+
+.nav-menu-item {
+  display: inline-block;
+}
+
+.nav-menu-item a {
+  display: block;
+  text-align: center;
+  background-color: #1c3863;
+  border: 1px solid #192f4f;
+  color: #dbc044;
+  padding: 5px;
+  margin: 2px;
+  width: 180px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  height: 40px;
+}
